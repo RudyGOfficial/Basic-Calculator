@@ -41,7 +41,7 @@
 		938325892A74E0BB0043947C = {
 			isa = PBXGroup;
 			children = (
-				938325942A74E0BB0043947C /* 01 Basic Calculator */,
+				938325942A74E0BB0043947C /* Basic-Calculator */,
 				938325932A74E0BB0043947C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		938325942A74E0BB0043947C /* 01 Basic Calculator */ = {
+		938325942A74E0BB0043947C /* Basic-Calculator */ = {
 			isa = PBXGroup;
 			children = (
 				938325952A74E0BB0043947C /* main.cpp */,
 			);
-			path = "01 Basic Calculator";
+			path = "Basic-Calculator";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9383258D2A74E0BB0043947C /* Build configuration list for PBXProject "01 Basic Calculator" */;
+			buildConfigurationList = 9383258D2A74E0BB0043947C /* Build configuration list for PBXProject "Basic-Calculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -254,7 +254,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9383258D2A74E0BB0043947C /* Build configuration list for PBXProject "01 Basic Calculator" */ = {
+		9383258D2A74E0BB0043947C /* Build configuration list for PBXProject "Basic-Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				938325972A74E0BB0043947C /* Debug */,
