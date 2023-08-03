@@ -1,5 +1,5 @@
-# basic-calculator
-Basic calculator to conduct addition, subtraction, multiplication, and division
+# Basic Calculator
+Conducts addition, subtraction, multiplication, and division
 
 ## How it works
 Run the code and the CLI will prompt the user for a basic math calculation.
